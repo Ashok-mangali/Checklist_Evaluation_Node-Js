@@ -1,0 +1,29 @@
+body {
+    margin: 30px;
+    text-align: start;
+  }
+  h1{
+    text-align: center;
+    font-weight: normal;
+  }
+  
+  .result {
+    margin: 10px ;
+    padding: 20px;
+    border: 2px solid #060606;
+  }
+  
+  .passed {
+    background-color: green;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  .failed {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
